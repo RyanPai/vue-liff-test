@@ -1,0 +1,17 @@
+{
+  "name": "dev-liff-app",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@line/liff": "2.21.2",
+    "vue": "3.2.41"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "3.2.0",
+    "vite": "3.2.3"
+  }
+}
